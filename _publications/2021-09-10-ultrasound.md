@@ -1,11 +1,11 @@
 ---
 title: "Development and Evaluation of Intraoperative Ultrasound Segmentation with Negative Image Frames and Multiple Observer Labels"
 collection: publications
-permalink: /publications/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+permalink: /publications/2021-09-10-ultrasound
+excerpt: 'This work aims to share practical experience in developing a machine learning application that assists highly variable interventional imaging for prostate cancer patients.'
+date: 2021-09-10
+venue: 'Simplifying Medical Ultrasound. ASMUS 2021. Lecture Notes in Computer Science'
+paperurl: 'https://www.springerprofessional.de/en/development-and-evaluation-of-intraoperative-ultrasound-segmenta/19688282'
 citation: 'Liam F. Chalcroft, Jiongqi Qu, Sophie A. Martin, Iani JMB Gayo, Giulio V. Minore, Imraj RD Singh, Shaheer U. Saeed, Qianye Yang, Zachary M. C. Baum, Andre Altmann, Yipeng Hu (2021). &quot;Development and Evaluation of Intraoperative Ultrasound Segmentation with Negative Image Frames and Multiple Observer Labels.&quot; <i>Simplifying Medical Ultrasound. ASMUS 2021. Lecture Notes in Computer Science</i>. 12967.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
