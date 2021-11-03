@@ -6,7 +6,7 @@ excerpt: 'This work aims to share practical experience in developing a machine l
 date: 2021-09-10
 venue: 'Simplifying Medical Ultrasound. ASMUS 2021. Lecture Notes in Computer Science'
 paperurl: 'https://www.springerprofessional.de/en/development-and-evaluation-of-intraoperative-ultrasound-segmenta/19688282'
-citation: 'Liam F. Chalcroft, Jiongqi Qu, Sophie A. Martin, Iani JMB Gayo, Giulio V. Minore, Imraj RD Singh, Shaheer U. Saeed, Qianye Yang, Zachary M. C. Baum, Andre Altmann, Yipeng Hu (2021). &quot;Development and Evaluation of Intraoperative Ultrasound Segmentation with Negative Image Frames and Multiple Observer Labels.&quot; <i>Simplifying Medical Ultrasound. ASMUS 2021. Lecture Notes in Computer Science</i>. 12967.'
+citation: ''
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
