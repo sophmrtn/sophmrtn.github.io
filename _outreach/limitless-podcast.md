@@ -1,6 +1,6 @@
 ---
 title: "IOP Looking Glass Podcast"
-excerpt: "Speaking on Series 1 Episode 6: A Blueprint for the Future."
+excerpt: "Speaking on Series 1 Episode 6: 'A Blueprint for the Future.' "
 collection: outreach
 ---
 
