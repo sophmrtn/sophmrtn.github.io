@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: "https://sophmrtn.github.io/files/sophie_cv.pdf"
 author_profile: true
 redirect_from:
   - /resume
