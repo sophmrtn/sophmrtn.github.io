@@ -14,6 +14,6 @@ My research project focuses on interpretable deep learning in brain imaging, spe
 
 I am also a Director of [The Blackett Family](https://www.theblackettlabfamily.com){:target="_blank"}, a network for UK based Black physicists, and a Board Trustee for the educational charity, [Project Partners](https://projectpartners.org.uk/){:target="_blank"}. Through these organisations, I am able to share my research with various groups and take part in public engagement opportunities, some of which are listed on my [projects](https://sophmrtn.github.io/projects/) page.
 
-Outside of work and other projects, I enjoy reading, keeping active and trying new things. I also like listening to music and have an unhealthy obsession with wool coats and leather boots...
+Outside of work and other projects, I enjoy reading, keeping active and trying new things. I also like listening to music and have an unhealthy obsession with wool coats and ankle boots...
 
 Please feel free to [contact](mailto:s.martin.20@ucl.ac.uk) me for collaboration or questions!
