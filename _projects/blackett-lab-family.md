@@ -1,6 +1,6 @@
 ---
 title: "The Blackett Lab Family"
-excerpt: "Director of Media & Marketing<br/><img src='/images/TBLF_Brandmark_RGB.png'>"
+excerpt: "Director of Media & Marketing<br/>"
 collection: projects
 ---
 
