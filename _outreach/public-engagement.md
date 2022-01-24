@@ -1,6 +1,6 @@
 ---
 title: "Public Engagements"
-excerpt: "A list of organisational and public-facing events I have been a part of."
+excerpt: "A list of organisational and public-facing events."
 collection: outreach
 ---
 
