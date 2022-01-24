@@ -1,6 +1,6 @@
 ---
 title: "The Blackett Lab Family"
-excerpt: "Director of Media & Marketing<br/>"
+excerpt: "A list of events and activities I have participated in through this organisation."
 collection: outreach
 ---
 
