@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sophie Martin"
   avatar           : "profile.jpg"
-  bio              : "PhD Student at University College London, interested in interpretable machine learning"
+  bio              : "PhD Student at University College London, interested in interpretable machine learning methods applied to dementia prediction."
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
