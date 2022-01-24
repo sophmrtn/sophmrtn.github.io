@@ -1,7 +1,7 @@
 ---
-title: "Model Interpretation"
+title: "Model Interpretation Guest Lecture"
 collection: teaching
-type: "Postgraduate course"
+type: "Postgraduate course
 permalink: /teaching/2021-december-teaching
 venue: "University College London, Department of Computer Science"
 date: 2021-12-10
