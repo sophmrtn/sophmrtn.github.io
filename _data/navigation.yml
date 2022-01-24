@@ -20,7 +20,7 @@ main:
   url: /teaching/    
     
   - title: "CV"
-    url: https://sophmrtn.github.io/files/sophie_cv.pdf
+    url: /cv/
     
 #   - title: "Guide"
 #     url: /markdown/
