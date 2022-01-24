@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a **PhD student** at University College London on the [i4Health](https://www.ucl.ac.uk/intelligent-imaging-healthcare/){:target="_blank"} CDT programme. I'm excited by the application of machine learning in the healthcare industry and passionate about diversity in STEM. My research project focuses on **interpretable deep learning** in brain imaging, specifically for the early detection of dementia.
+I am a PhD Student at University College London on the [i4Health](https://www.ucl.ac.uk/intelligent-imaging-healthcare/){:target="_blank"} CDT programme. I'm excited by the application of machine learning in the healthcare industry and passionate about diversity in STEM. 
 
-I am also a Director of a network of UK based Black physicists, [The Blackett Family](https://www.theblackettlabfamily.com){:target="_blank"}, and I am a Board Trustee for the educational charity, [Project Partners](https://projectpartners.org.uk/){:target="_blank"}. 
+My research project focuses on **interpretable deep learning** in brain imaging, specifically for the early detection of dementia. I am a member of the [Manifold Lab](https://manifold-lab.netlify.app){:target="_blank"} group and will be investigating deep learning approaches that utilise neuroimaging data for the diagnosis and prognosis of dementia using a variety of datasets. These methods include post-hoc explanation methods that aim to visualise relevant features as well as recent advancements in interpretable neural network architectures. A review paper summarising the current state of the field is currently ongoing, and the registered protocol can be found [here](https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=291992){:target="_blank"}.
 
-For more information, please check out my [projects](projects) page.
+I am also a Director of a network of UK based Black physicists, [The Blackett Family](https://www.theblackettlabfamily.com){:target="_blank"}, and a Board Trustee for the educational charity, [Project Partners](https://projectpartners.org.uk/){:target="_blank"}. Through these organisations, I am able to share my research with various groups and take part in public engagement opportunities, some of which are listed on my [projects](https://sophmrtn.github.io/projects/) page.
+
+Please feel free to [contact](mailto:s.martin.20@ucl.ac.uk) me for collaboration or questions.
