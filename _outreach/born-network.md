@@ -1,6 +1,7 @@
 ---
 title: "How do you build a research network?"
 excerpt: "British Optomechanical Research Network<br/>"
+date: 2021-07-07
 collection: outreach
 ---
 
