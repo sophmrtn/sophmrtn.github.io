@@ -5,4 +5,8 @@ collection: outreach
 ---
 
 ## Panel Discussions
-- "How do I build a research network?" This panel discussion was chaired by Professor Hendrik Ulbricht. The event page and recording can be found [here](https://youtu.be/_rVn_Fw2GKM).
+- 2021:
+  - **"How do I build a research network?"** This panel discussion was organised by the British Optomechanical Research Network and chaired by Professor Hendrik Ulbricht. The event page and recording can be found [here](https://youtu.be/_rVn_Fw2GKM).
+  - **"What about doing a PhD?"** A panel discussion aimed at undergraduate students considereing pursing a career in academia, organised by King's College London's Smart Medical Imaging CDT.
+
+
