@@ -12,8 +12,6 @@ I am a PhD Student on the [i4Health](https://www.ucl.ac.uk/intelligent-imaging-h
 
 My research focuses on applying interpretable deep learning methods to predict dementia with neuroimaging data. I am interested in understanding how explanations can be used to bridge the gap between AI and healthcare. A review paper summarising the state-of-the-art in interpretable dementia research is ongoing, and the registered protocol can be found [here](https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=291992){:target="_blank"}. You can find this and any future publications [here](https://sophmrtn.github.io/publications/).
 
-Outside of my research, I am a Director of [The Blackett Family](https://www.theblackettlabfamily.com){:target="_blank"}, a network for UK based Black physicists, and a Board Trustee for the educational charity, [Project Partners](https://projectpartners.org.uk/){:target="_blank"}. Through these organisations, I'm able to share my research with various groups and take part in public engagement opportunities, some of which are listed on the [outreach](https://sophmrtn.github.io/outreach/) page.
-
-I also frequently binge-watch films and TV series.
+Outside of my research, I am a Director of [The Blackett Family](https://www.theblackettlabfamily.com){:target="_blank"}, a network for UK based Black physicists, and a Board Trustee for the educational charity, [Project Partners](https://projectpartners.org.uk/){:target="_blank"}. Through these organisations, I'm able to share my research with various groups and take part in public engagement opportunities, some of which are listed on the [outreach](https://sophmrtn.github.io/outreach/) page. I'm also a huge advocate for binge-watching as many TV series as possible.
 
 Please feel free to [contact](mailto:s.martin.20@ucl.ac.uk) me for collaboration or questions!
