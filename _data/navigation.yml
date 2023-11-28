@@ -6,15 +6,15 @@ main:
   - title: "Talks"
     url: /talks/  
   
-  # - title: "Teaching"
-  #   url: /teaching/    
-  
   - title: "Outreach"
     url: /outreach/     
     
   - title: "CV"
     url: https://sophmrtn.github.io/files/sophie_cv.pdf
 
+# - title: "Teaching"
+#   url: /teaching/    
+  
 #   - title: "Blog"
 #     url: /blog/
 
