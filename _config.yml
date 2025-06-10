@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sophie Martin"
   avatar           : "profile.jpg"
-  bio              : "PhD Student at University College London, interested in interpretable machine learning methods applied to dementia prediction."
+  bio              : "Research Fellow at University College London."
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "s.martin.20@ucl.ac.uk"
+  email            : "sophie.a.martin@ucl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "sophmrtn"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
